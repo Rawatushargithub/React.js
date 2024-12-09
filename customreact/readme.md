@@ -1,0 +1,2 @@
+This is the basic folder for creating a react library and to know the better understanding of how react work behind the scene 
+This is just a try if you want to learn more about react then hit this URL of react and learn more => https://github.com/facebook/react/tree/main
